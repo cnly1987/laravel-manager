@@ -1,0 +1,11 @@
+INSERT INTO `v_p_department` (`id`, `groups`, `dept_descrip`, `department`, `modify_date`, `dept_status`) VALUES (61, '测试事业部群', 'sfsdgsd', NULL, '2016-11-1 16:58:26', '未发布');
+INSERT INTO `v_p_department` (`id`, `groups`, `dept_descrip`, `department`, `modify_date`, `dept_status`) VALUES (23, '生命科学群组', '', ',食品教育事业部群,医农事业部群,健康养老事业部群', '2016-11-1 16:58:22', '已发布');
+INSERT INTO `v_p_department` (`id`, `groups`, `dept_descrip`, `department`, `modify_date`, `dept_status`) VALUES (1, '经管群组', '', '人资行政营销事业部群,创业电商事业部群,旅游酒店会展事业部群,工商管理事业部群', '2016-11-1 14:28:37', '已发布');
+INSERT INTO `v_p_department` (`id`, `groups`, `dept_descrip`, `department`, `modify_date`, `dept_status`) VALUES (36, 'O2O大教育中心', 'o2o大教育中心群组', 'O2O事业部', '2016-11-1 01:58:08', '已发布');
+INSERT INTO `v_p_department` (`id`, `groups`, `dept_descrip`, `department`, `modify_date`, `dept_status`) VALUES (34, '品牌管理中心', NULL, '品牌管理部', '2016-10-27 11:10:13', '已发布');
+INSERT INTO `v_p_department` (`id`, `groups`, `dept_descrip`, `department`, `modify_date`, `dept_status`) VALUES (31, '公共产品部', NULL, '公共产品事业部,O2O课程开发部', '2016-10-27 11:02:40', '已发布');
+INSERT INTO `v_p_department` (`id`, `groups`, `dept_descrip`, `department`, `modify_date`, `dept_status`) VALUES (27, '金融群组', NULL, '金融大数据教育事业部群,财税审事业部群,金融大数据机构群', '2016-10-27 10:39:38', '已发布');
+INSERT INTO `v_p_department` (`id`, `groups`, `dept_descrip`, `department`, `modify_date`, `dept_status`) VALUES (17, '新理工群组', NULL, '机电与自动化事业部群,汽车教育事业部群,机器人与3D打印事业部群,电子信息事业部群,机械工程教育事业部群', '2016-10-27 10:34:07', '已发布');
+INSERT INTO `v_p_department` (`id`, `groups`, `dept_descrip`, `department`, `modify_date`, `dept_status`) VALUES (13, '基教学前群组', NULL, '学前与特殊教育事业部群,基础教育事业部群,吉美幼儿教育', '2016-10-27 10:32:41', '已发布');
+INSERT INTO `v_p_department` (`id`, `groups`, `dept_descrip`, `department`, `modify_date`, `dept_status`) VALUES (10, '艺术文化群组', NULL, '校园文化事业部,综合学科事业部', '2016-10-27 10:31:14', '已发布');
+INSERT INTO `v_p_department` (`id`, `groups`, `dept_descrip`, `department`, `modify_date`, `dept_status`) VALUES (6, '信息化群组', NULL, '教育信息化事业部群,计算机教育事业部群,信息化产品开发中心', '2016-10-27 10:29:36', '已发布');
